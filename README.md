@@ -52,16 +52,22 @@ July 2019 - September 2019
 - Iterated wireframes and prototypes based on ethnographic studies and mentor crits
 
 ### Skills
-User Research
-UX/UI Design  
-Wireframing
-Prototyping
-Usability Testing
+User Research + UX/UI Design + Wireframing + Prototyping + Usability Testing
 
 ### Tools
-Sketch + Figma 
-InVision Studio
-Principle
-HTML + CSS
-JavaScript
-React
+Sketch + Figma + InVision + HTML + CSS + JavaScript + React
+
+### Education
+
+**UX Design - Lambda School**
+User Experience + Web Development
+
+
+**MA - Stanford University**
+Education - Biology Credential
+
+**BS - Sonoma State University**
+Biology, minor in Chemistry with Distinction
+
+**BA - Pennsylvania State University**
+Advertising
