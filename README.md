@@ -1,5 +1,5 @@
-### Denise Fafette
-# User experiencee designer
+# Denise Fafette
+### User experience designer
 
 ## Contact information
 denisefafette@gmail.com
