@@ -31,10 +31,10 @@ Cubit/Qfusion Labs, March 2016 – March 2017
 - Led the successful product pivot to education market and second seed round of $1million
 
 ### STEM Coordinator and Tech Lead
-SFUSD, June 2015 – February 2016
-Engaged IDEO + stakeholders to ideate Makerspace features 
-Managed 1:1 technology integration and professional development to serve over 200 students and educators 
-Exceeded 85% symposium participation targets
+- SFUSD, June 2015 – February 2016
+- Engaged IDEO + stakeholders to ideate Makerspace features 
+- Managed 1:1 technology integration and professional development to serve over 200 students and educators 
+- Exceeded 85% symposium participation targets
 
 ## Projects
 
@@ -63,11 +63,11 @@ Sketch + Figma + InVision + HTML + CSS + JavaScript + React
 User Experience + Web Development
 
 
-**MA - Stanford University**
+**MA, Stanford University**
 Education - Biology Credential
 
-**BS - Sonoma State University**
+**BS, Sonoma State University**
 Biology, minor in Chemistry with Distinction
 
-**BA - Pennsylvania State University**
+**BA, Pennsylvania State University**
 Advertising
