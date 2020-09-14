@@ -5,7 +5,7 @@
 ## Contact information
 📧 denisefafette@gmail.com
 🎒 denise-fafette@webflow.io
-🗓 [Calendyy link] (https://calendly.com/denisefafette)
+🗓 [Calendy link] (https://calendly.com/denisefafette)
 
 ## Experience
 
