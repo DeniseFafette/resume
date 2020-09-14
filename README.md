@@ -38,7 +38,7 @@ Exceeded 85% symposium participation targets
 
 ## Projects
 
-###Product Designer - Budget Blocks
+### Product Designer - Budget Blocks
 - May 2020 - July 2020
 - Led product discovery and design with a team of 2 Data scientists and 7 engineers
 - Designed UX content and information architechture with Data Science and Web BE
