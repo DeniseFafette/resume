@@ -1,13 +1,15 @@
 # Denise Fafette
 ### User experience designer
+>Accessibility, curiosity, and coffee drive my designs 🎧
 
 ## Contact information
-denisefafette@gmail.com
-[Calendyy link] (https://calendly.com/denisefafette)
+📧 denisefafette@gmail.com
+🎒 denise-fafette@webflow.io
+🗓 [Calendyy link] (https://calendly.com/denisefafette)
 
 ## Experience
 
-# Build Week Program UX Lead and Project Manager
+### Build Week Program UX Lead and Project Manager
 Lambda School, April 2019 - January 2020
 
 Managed 24+ product design handoffs for 89+ engineering teams
