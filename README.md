@@ -15,20 +15,22 @@ Lambda School, April 2019 - January 2020
 Managed 24+ product design handoffs for 89+ engineering teams
 - Collected and analyzed 600+ surveys to identify top 3 pain points
 - Implemented solutions to increase student experience scores by 10%
-- Mentored UX Section Leads and UX Teams leads and advocated for the UX design student pain points and goals with cross collaboration team
+- Mentored UX Section Leads and UX Teams leads
+- Advocated for the UX design student pain points and goals with cross collaboration team
 
 ### Design, Strategy and Social Media Consultant
 Fafette Design Solutions, April 2017 – Present
 - Sausalito Sister Cities: Developed the online strategy for the Board and 3 Sister City Councils
 - Berkeley Education Global Research Initiative: Designed innovative STE(A)M education framework
-- Oxford Day Academy: Led the integration of the network, iPads, Chromebooks and LMS in 60 days in time for the founding cohort with 100% successful implementation
+- Oxford Day Academy: Led the integration of the network, iPads, Chromebooks and LMS in 60 days 
+- 100% successful implementation in time for the founding Oxford Day Academy cohort
 - Oxford Day Academy: Engaged hundreds of stakeholders increasing student applications by 200% 
 
 ### Co-founder 
 Cubit/Qfusion Labs, March 2016 – March 2017
 - Developed personas, user stories and product stories driven by user research surveys and interviews
 - Led stakeholder workshops with engineer and sales teams
-- Led the successful product pivot to education market and second seed round of $1million
+- Led the successful product pivot to education market and second seed round of $1 million
 
 ### STEM Coordinator and Tech Lead
 - SFUSD, June 2015 – February 2016
