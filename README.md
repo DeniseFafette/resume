@@ -33,7 +33,7 @@ Cubit/Qfusion Labs, March 2016 – March 2017
 - Led the successful product pivot to education market and second seed round of $1 million
 
 ### STEM Coordinator and Tech Lead
-- SFUSD, June 2015 – February 2016
+SFUSD, June 2015 – February 2016
 - Engaged IDEO + stakeholders to ideate Makerspace features 
 - Managed 1:1 technology integration and professional development serving over 200 students and educators 
 - Exceeded 85% symposium participation targets
