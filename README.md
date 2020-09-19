@@ -20,10 +20,10 @@ Managed 24+ product design handoffs for 89+ engineering teams
 
 ### Design, Strategy and Social Media Consultant
 Fafette Design Solutions, April 2017 – Present
-- Sausalito Sister Cities: Developed the online strategy for the Board and 3 Sister City Councils
-- Berkeley Education Global Research Initiative: Designed innovative STE(A)M education framework
+- Sausalito Sister Cities: Developed the Board and 3 Sister City Councils online strategy 
+- Berkeley Education Global Research Initiative: Designed STE(A)M education framework
 - Oxford Day Academy: Led the integration of the network, iPads, Chromebooks and LMS in 60 days 
-- 100% successful implementation in time for the founding Oxford Day Academy cohort
+- 100% successful implementation on time for the founding Oxford Day Academy cohort
 - Oxford Day Academy: Engaged hundreds of stakeholders increasing student applications by 200% 
 
 ### Co-founder 
@@ -35,7 +35,7 @@ Cubit/Qfusion Labs, March 2016 – March 2017
 ### STEM Coordinator and Tech Lead
 - SFUSD, June 2015 – February 2016
 - Engaged IDEO + stakeholders to ideate Makerspace features 
-- Managed 1:1 technology integration and professional development to serve over 200 students and educators 
+- Managed 1:1 technology integration and professional development serving over 200 students and educators 
 - Exceeded 85% symposium participation targets
 
 ## Projects
